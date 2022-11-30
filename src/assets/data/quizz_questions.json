@@ -1,55 +1,73 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Você é um Junior Raiz ou um Nutella?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Onde você está focando sua energia?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Só em aplicar para vagas, com certeza já estudei o sufuciente!", "alias":"B"},
+        {"id": 2, "name":"Aprender efeitos bonitinhos de CSS.", "alias":"B"},
+        {"id": 3, "name":"Aprender como construir algoritimos eficientes.", "alias":"A"},
+        {"id": 4, "name":"Fico vendo vídeos, sem práticar é claro, pra mim já é o suficiente!", "alias":"B"},
+        {"id": 5, "name":"Lógica de programação afinal é a base de tudo que preciso!", "alias":"A"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Como vôce centraliza uma DIV ?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Procuro no google.", "alias":"B"},
+        {"id": 2, "name":"Já domino Display Flex e Display Grid! Moleza!", "alias":"A"},
+        {"id": 3, "name":"Vou adicionando margem até ficar no meio!", "alias":"B"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "E o DOM já está manipulando como ninguém?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Dominic Toretto de Velozes e Furiosos?", "alias":"B"},
+        {"id": 2, "name":"O que é DOM?", "alias":"B"},
+        {"id": 3, "name":"Claro! Virtual DOM também!", "alias":"A"},
+        {"id": 4, "name":"Eu não tenho o DOM! :(", "alias":"B"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "E os frameworks o que tem visto?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Estou focado em aprender e me aprofundar em um por vez!", "alias":"A"},
+        {"id": 2, "name":"O importante é saber vários de forma raza!", "alias":"B"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Fez um curso full Stack de 3 meses ?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Curso ótimo me preparou para o mercado de trabalho! Me contrata Zuckerberg!", "alias":"B"},
+        {"id": 2, "name":"Até fiz, mas percebi que não é tão simples assim!", "alias":"A"},
+        {"id": 3, "name":"Estou indo com calma, aprendendo e absorvendo os conceitos antes de avançar!", "alias":"A"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Já Perdeu 3 horas do dia porque estava faltando uma vírgula ou letra no seu código?",
+      "options":[
+        {"id": 1, "name":"Sim, é rir pra não chorar!", "alias":"A"},
+        {"id": 2, "name":"Não, quase nunca pratico, prefiro vídeos", "alias":"B"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Tem atualizado sem linkedIn?",
+      "options":[
+        {"id": 1, "name":"Entro curto algumas coisas mas não posto nada!", "alias":"B"},
+        {"id": 2, "name":"Sim, tento postar sempre que possível!", "alias":"A"},
+        {"id": 3, "name":"Não gosto de redes sóciais.", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Junior RAIZ, já está pronto para o mercado!",
+    "B": "Junior NUTELLA, ainda está caindo na conversa de vendedor de curso!"
   }
 }
