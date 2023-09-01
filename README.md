@@ -7,3 +7,4 @@ Interface:
 ## Técnologias Utilizadas
 
 - Angular
+- TypeScript
